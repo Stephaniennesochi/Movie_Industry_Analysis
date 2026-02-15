@@ -23,7 +23,7 @@ To analyze the financial performance, ratings, and genre trends of movies using 
 - Does a higher rating lead to higher revenue
 
 ## SQL Queries
-<a href = "
+<a href = "https://github.com/Stephaniennesochi/Movie_Industry_Analysis/tree/master/assets/sql_queries"> SQL QUERIES </a>
 
 ## Dashboard Interaction
   <a href = "https://github.com/Stephaniennesochi/Movie_Industry_Analysis/blob/master/assets/images/movie_industry_dashboard.png"> View Dashboard </a>
