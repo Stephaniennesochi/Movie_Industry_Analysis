@@ -24,3 +24,5 @@ To analyze the financial performance, ratings, and genre trends of movies using 
 
 - ## Dashboard Interaction
   <a href = "https://github.com/Stephaniennesochi/Movie_Industry_Analysis/blob/master/assets/images/movie_industry_dashboard.png"> View Dashboard </a>
+
+  ## Dashboard
